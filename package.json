@@ -1,0 +1,19 @@
+{
+  "name": "scopeclosurescourse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielbatres/ScopeClosuresCourse.git"
+  },
+  "author": "Daniel Batres <danielbatresuser@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielbatres/ScopeClosuresCourse/issues"
+  },
+  "homepage": "https://github.com/danielbatres/ScopeClosuresCourse#readme"
+}
